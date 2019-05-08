@@ -1,0 +1,3 @@
+/cygdrive/c/Users/jgreene44/CLionProjects/Kevin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/jgreene44/CLionProjects/Kevin/cmake-build-debug/CMakeFiles/Kevin.dir
+/cygdrive/c/Users/jgreene44/CLionProjects/Kevin/cmake-build-debug/CMakeFiles/edit_cache.dir

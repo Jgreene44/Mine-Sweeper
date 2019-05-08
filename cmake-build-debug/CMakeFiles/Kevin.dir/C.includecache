@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/jgreene44/CLionProjects/Kevin/game.c
+game.h
+/cygdrive/c/Users/jgreene44/CLionProjects/Kevin/game.h
+
+/cygdrive/c/Users/jgreene44/CLionProjects/Kevin/game.h
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+time.h
+-
+
